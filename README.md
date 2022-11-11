@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GreNaz
 - 👀 I’m interested in Load Testing
-- 🌱 I’m currently learning Java Core
+- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on any project
 - 📫 How to reach me - Telegram @GreNaz
 
