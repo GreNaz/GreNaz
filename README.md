@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @GreNaz
-- 👀 I’m interested in Load Testing
+- 👀 I am interested in improving the performance of information systems
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on any project
-- 📫 How to reach me - Telegram @GreNaz
+- 📫 How to contact me - Telegram @Grenaz
 
 <!---
 GreNaz/GreNaz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
